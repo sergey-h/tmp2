@@ -1,1 +1,1 @@
-console.log('Master branch');
+const sVar = 1;
