@@ -3,11 +3,10 @@
 // Currently file locking on the following systems are supported.
 //
 /*
-  darwin dragonfly freebsd linux netbsd openbsd solaris:
-          Advisory Lock
-  windows:
-          Mandatory Lock
   android nacl plan9 zos:
           Not Supported
 */
+
+
+
 package file
