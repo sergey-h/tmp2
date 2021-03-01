@@ -7,7 +7,8 @@ console.log('Spellers propellers hullow !');
 const main = () => {
     console.log('You are in main func');
     console.log('Last one comment');
-    console.log('Or not')
+    console.log('Or not');
+    console.log('Does it reviewed?');
     return `This is main func!!`;
 }
 
