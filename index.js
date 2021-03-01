@@ -9,7 +9,7 @@ const main = () => {
     console.log('Last one comment');
     console.log('Or not');
     console.log('Does it reviewed?');
-    console.log('Hmm, not??');
+    console.log('Hmm, not?? okay, I see');
     return `This is main func!!`;
 }
 
