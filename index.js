@@ -4,6 +4,8 @@ console.log('Hey now!')
 
 console.log('Spellers propellers hullow !');
 
-// console.log('oppa')
+const main = () => {
+    return `This is main func`;
+}
 
 console.log(1);
