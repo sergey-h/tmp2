@@ -7,3 +7,6 @@ console.log('Spellers propellers hullow !');
 // console.log('oppa')
 
 console.log(1);
+
+
+console.log(2);
